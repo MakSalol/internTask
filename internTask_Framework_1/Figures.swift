@@ -52,7 +52,7 @@ public struct Triangle: AreaProtocol {
         }
     }
     
-    var isRectangular: Bool {
+    public var isRectangular: Bool {
         let sides = [a,b,c].sorted()
         
         if sides[2] * sides[2] == sides[0] * sides[0] + sides[1] * sides[1] {
