@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>internTask_Framework_1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>internTask_Framework_2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2D050A482B764140007FE8AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D1203992B7693B800736B6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D7AE91A2B76F04200988207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D7AE9212B76F04300988207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D7AE93F2B77069300988207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D7AE9462B77069300988207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D7AE9582B7707F000988207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
